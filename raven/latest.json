@@ -1,0 +1,43 @@
+{
+  "version": "1.2.1",
+  "notes": "",
+  "pub_date": "2026-10-22T11:19:19.680Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY2dRTzkzVjVzeFdzS213ZzA5azZadHJRMWJ0c1NleG44SXlPWm1LWmxtZ0tvUDdESXRKMjU3RnRQZmRsdWY2eHordFMvL2J1VDVGY2tpR2JMaGxXZlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjY3Mzk2CWZpbGU6UmF2ZW4uYXBwLnRhci5negl2ZXJzaW9uOjEuMi4xCnpnNnVCZmpuNTh3QkJpczJrSS9ibkg3YXFxSi9MZ2tPOXNua0QyYW8wMVNnVlRZTjhOcysrRnNUaUY4aElvYXIweEdOb3JldnA2cVBFN3ZORTFnM0JBPT0K",
+      "url": "https://api.github.com/repos/fahadjibransheikh/raven/releases/assets/665603310"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY2dRTzkzVjVzeFdzS213ZzA5azZadHJRMWJ0c1NleG44SXlPWm1LWmxtZ0tvUDdESXRKMjU3RnRQZmRsdWY2eHordFMvL2J1VDVGY2tpR2JMaGxXZlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjY3Mzk2CWZpbGU6UmF2ZW4uYXBwLnRhci5negl2ZXJzaW9uOjEuMi4xCnpnNnVCZmpuNTh3QkJpczJrSS9ibkg3YXFxSi9MZ2tPOXNua0QyYW8wMVNnVlRZTjhOcysrRnNUaUY4aElvYXIweEdOb3JldnA2cVBFN3ZORTFnM0JBPT0K",
+      "url": "https://api.github.com/repos/fahadjibransheikh/raven/releases/assets/665603310"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY2lHZU5KT0JDcWdjZWcxOXVCQSt1L2NkTlcxYjNGbUR1K0xjVTl1UzA5RElYOUtWdXk2MWdVTjRzT3MwalJON0xJQmdzUWZNdXlkUUo0cmZTL2hqeVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjY3ODg4CWZpbGU6UmF2ZW5fMS4yLjFfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjoxLjIuMQpwUENoMHdYUVN2a3k2UGpKbUVERTlSRW1lcmtHeHBITEh3NEhuU01rNm1kcVpyaGxFeFNaQzVFNnRrUG8zTzdKSHZva1QzUUZqK3JMU1lNREV6MjdCZz09Cg==",
+      "url": "https://api.github.com/repos/fahadjibransheikh/raven/releases/assets/665624883"
+    },
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY2lHZU5KT0JDcWdjZWcxOXVCQSt1L2NkTlcxYjNGbUR1K0xjVTl1UzA5RElYOUtWdXk2MWdVTjRzT3MwalJON0xJQmdzUWZNdXlkUUo0cmZTL2hqeVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjY3ODg4CWZpbGU6UmF2ZW5fMS4yLjFfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjoxLjIuMQpwUENoMHdYUVN2a3k2UGpKbUVERTlSRW1lcmtHeHBITEh3NEhuU01rNm1kcVpyaGxFeFNaQzVFNnRrUG8zTzdKSHZva1QzUUZqK3JMU1lNREV6MjdCZz09Cg==",
+      "url": "https://api.github.com/repos/fahadjibransheikh/raven/releases/assets/665624883"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY2p4dGxkT3FjdmgwaHFBZjV6WC8rQXl3aWxFL0JoaW9RVW9MWGo5SlRpRGpaR21MY0lVOHdMb3g0dW9EelBaeHUyZ3U1VXZJNWw0UzJOK29HYVJUU0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjY3ODg4CWZpbGU6UmF2ZW5fMS4yLjFfYW1kNjQuZGViCXZlcnNpb246MS4yLjEKUlhndElpTDdiYlpxSkRuaUZ2NkVWaXJFZWpRamtwVlA0VkdYeHRsQVM0VWtIcUxLbFpSd05UTE9OVUNnVTdxUC9zWnQvWDJ4YmljaHlwYXBmOEV2QkE9PQo=",
+      "url": "https://api.github.com/repos/fahadjibransheikh/raven/releases/assets/665624681"
+    },
+    "linux-x86_64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY3VJL1NRdVI2NkxvU240bXN4YXpKUTZCWkFHaHl4ZHZmK2ZIUjZQWloyTFlvME1KZ0dDYkYwZ2t2Um5QNGhKQ3QwQW8rVzRPRnZjQnQ4eFVSeWdKMGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjY3ODg4CWZpbGU6UmF2ZW4tMS4yLjEtMS54ODZfNjQucnBtCXZlcnNpb246MS4yLjEKZWVuajA5UXRJbWVmWGF3ZWpXNGVvZkRncVZERDNiWDRpbnFRN0VXalB5cEc1U1pHZ2sxZk9tbWhaVUxwd0lrRWx3M3JydVdTYjhkT0NHZE1mY3FPQnc9PQo=",
+      "url": "https://api.github.com/repos/fahadjibransheikh/raven/releases/assets/665624803"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY3NXNTcxRFgyT3BLUzNaT2VEMkp2cGpNbmlPS2F5dEZBUTA5cGZ3MDhGekxyMS8wU1FjajArTVlEdmVHd3lLS050UmxTamEwVHBlQ2k2NUpkRFJIL3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjY3OTU0CWZpbGU6UmF2ZW5fMS4yLjFfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuMi4xClhremg5MGNKbzUyMWdyVmxOaUtVUUZZRW4rZjNmMHhCM1cyclZRNXpiUXVmMnR4b2thb0plaW1XSEZ4bXZQUFlLMStlc2MvODc3TWFUQ1dlenl4TUNRPT0K",
+      "url": "https://api.github.com/repos/fahadjibransheikh/raven/releases/assets/665627964"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY3NXNTcxRFgyT3BLUzNaT2VEMkp2cGpNbmlPS2F5dEZBUTA5cGZ3MDhGekxyMS8wU1FjajArTVlEdmVHd3lLS050UmxTamEwVHBlQ2k2NUpkRFJIL3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjY3OTU0CWZpbGU6UmF2ZW5fMS4yLjFfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuMi4xClhremg5MGNKbzUyMWdyVmxOaUtVUUZZRW4rZjNmMHhCM1cyclZRNXpiUXVmMnR4b2thb0plaW1XSEZ4bXZQUFlLMStlc2MvODc3TWFUQ1dlenl4TUNRPT0K",
+      "url": "https://api.github.com/repos/fahadjibransheikh/raven/releases/assets/665627964"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY3F0dkZ4Q3l4WEFPZ2UvdkRnRU5CQXJnNVB2M3pxYUQyY2FOaDNpTXBxZ2pJblZlMjJFTm1pOW9zTVN2WExVaHJlQVdKT0pPaUVnaldQUzZkRVArUUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjY3OTU0CWZpbGU6UmF2ZW5fMS4yLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMi4xCkk4UG1FVmRBbVpGWDFIa3NKR3BhSFFIaG5JOFdQR3NzUXZQN0s1M2I3Nmhud3MvTDZ5VzlHQWcwZkgreFNXbG1vYmFJeit5aStVU2ZLdzE4TVVPa0N3PT0K",
+      "url": "https://api.github.com/repos/fahadjibransheikh/raven/releases/assets/665628108"
+    }
+  }
+}
