@@ -1,7 +1,7 @@
 cask "raven" do
-  version "1.2.1"
-  sha256 arm:          "8c5e4935b9084bd6b5ef6d681d7af3eeb14c211a01aa3498e39cfe409a141d98",
-         x86_64_linux: "d2d90f40a42487f7e71eee49219dffc8633ced05645f1674dbe179bc63e808ff"
+  version "1.3.0"
+  sha256 arm:          "bd6126d9fac63fc64381582da527e2b3db36bd54085bf1b1b94bf2e50748f52b",
+         x86_64_linux: "f1348f9b51c411e454829c6fb36087b77aa0d3042f1737268c3fb553b534c422"
 
   on_macos do
     url "https://github.com/fahadjibransheikh/homebrew-tap/releases/download/raven-v#{version}/Raven_#{version}_aarch64.dmg"
