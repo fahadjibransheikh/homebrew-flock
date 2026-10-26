@@ -2,13 +2,13 @@ cask "mynah" do
   version "1.0.2"
   sha256 "2600da9e4109c6aece85795b6ee85db4b24b4396d83b8f9078fe8b51f9dc65ad"
 
-  url "https://github.com/fahadjibransheikh/homebrew-tap/releases/download/mynah-v#{version}/Mynah_#{version}_aarch64.dmg"
+  url "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/mynah-v#{version}/Mynah_#{version}_aarch64.dmg"
   name "Mynah"
   desc "Bot-free meeting notes: records calls, transcribes locally, names who spoke"
-  homepage "https://github.com/fahadjibransheikh/homebrew-tap"
+  homepage "https://github.com/fahadjibransheikh/homebrew-flock"
 
   livecheck do
-    url "https://github.com/fahadjibransheikh/homebrew-tap/releases"
+    url "https://github.com/fahadjibransheikh/homebrew-flock/releases"
     regex(/mynah-v(\d+(?:\.\d+)+)/i)
     strategy :github_releases
   end

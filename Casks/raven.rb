@@ -4,7 +4,7 @@ cask "raven" do
          x86_64_linux: "f1348f9b51c411e454829c6fb36087b77aa0d3042f1737268c3fb553b534c422"
 
   on_macos do
-    url "https://github.com/fahadjibransheikh/homebrew-tap/releases/download/raven-v#{version}/Raven_#{version}_aarch64.dmg"
+    url "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v#{version}/Raven_#{version}_aarch64.dmg"
 
     depends_on arch: :arm64
 
@@ -24,7 +24,7 @@ cask "raven" do
     ]
   end
   on_linux do
-    url "https://github.com/fahadjibransheikh/homebrew-tap/releases/download/raven-v#{version}/Raven_#{version}_amd64.AppImage"
+    url "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v#{version}/Raven_#{version}_amd64.AppImage"
 
     depends_on arch: :x86_64
 
@@ -36,7 +36,7 @@ cask "raven" do
     # Exec uses ~ for sh to expand when the launcher starts Raven.
     postflight_steps do
       run "/usr/bin/curl",
-          args:           ["-fsSL", "https://github.com/fahadjibransheikh/homebrew-tap/releases/download/raven-v{{version}}/raven-icon.png"],
+          args:           ["-fsSL", "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v{{version}}/raven-icon.png"],
           stdout_path:    "raven.png",
           network_access: true
       copy "raven.png", ".local/share/icons/hicolor/512x512/apps/raven.png", target_base: :home
@@ -63,10 +63,10 @@ cask "raven" do
 
   name "Raven"
   desc "Desktop email client"
-  homepage "https://github.com/fahadjibransheikh/homebrew-tap"
+  homepage "https://github.com/fahadjibransheikh/homebrew-flock"
 
   livecheck do
-    url "https://github.com/fahadjibransheikh/homebrew-tap/releases"
+    url "https://github.com/fahadjibransheikh/homebrew-flock/releases"
     regex(/raven-v(\d+(?:\.\d+)+)/i)
     strategy :github_releases
   end

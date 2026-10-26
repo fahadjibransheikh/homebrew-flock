@@ -1,0 +1,6 @@
+graft/
+.ignore
+# app source repos, each its own private git repo
+raven/
+peregrine/
+mynah/

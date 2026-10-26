@@ -2,13 +2,13 @@ cask "peregrine" do
   version "1.1.0"
   sha256 "3e3605e10cb1ef43888a38f264127ac08739d735a2a34ce176bed8619c859fea"
 
-  url "https://github.com/fahadjibransheikh/homebrew-tap/releases/download/peregrine-v#{version}/Peregrine_#{version}_aarch64.dmg"
+  url "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/peregrine-v#{version}/Peregrine_#{version}_aarch64.dmg"
   name "Peregrine"
   desc "Casts your screen and sound to a TV from the menu bar"
-  homepage "https://github.com/fahadjibransheikh/homebrew-tap"
+  homepage "https://github.com/fahadjibransheikh/homebrew-flock"
 
   livecheck do
-    url "https://github.com/fahadjibransheikh/homebrew-tap/releases"
+    url "https://github.com/fahadjibransheikh/homebrew-flock/releases"
     regex(/peregrine-v(\d+(?:\.\d+)+)/i)
     strategy :github_releases
   end
