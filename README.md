@@ -4,10 +4,12 @@ Homebrew tap for Fahad Sheikh's Mac apps. The apps' downloads are attached to th
 
 ```bash
 brew install --cask fahadjibransheikh/tap/mynah
+brew install --cask fahadjibransheikh/tap/peregrine
 brew install --cask fahadjibransheikh/tap/raven
 ```
 
 | Cask | What it is |
 |------|------------|
 | mynah | Bot-free meeting notes: records calls, transcribes locally, names who spoke |
+| peregrine | Casts your Mac's screen and sound to a TV from the menu bar |
 | raven | Local-first desktop email client with calendar and contacts. Its in-app updater reads `raven/latest.json` here |
