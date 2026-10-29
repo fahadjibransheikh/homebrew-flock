@@ -1,6 +1,6 @@
 cask "peregrine" do
-  version "1.1.0"
-  sha256 "3e3605e10cb1ef43888a38f264127ac08739d735a2a34ce176bed8619c859fea"
+  version "1.2.0"
+  sha256 "a1b0e4fc4fa500eaaca285dda0b7f3d421a6c0e0a4f669ca175fffef00007438"
 
   url "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/peregrine-v#{version}/Peregrine_#{version}_aarch64.dmg"
   name "Peregrine"
