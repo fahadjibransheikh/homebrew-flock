@@ -1,6 +1,6 @@
 cask "mynah" do
-  version "1.4.0"
-  sha256 "a1c8bd74c7d2eb5843d80ee6e0a8d7616e4cd2318af2b879d0c4aedfd4237cbc"
+  version "1.5.0"
+  sha256 "1bf303139f5ae2dc7f86421aabdec8ae66d73451770f20aca0630605dbeda702"
 
   url "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/mynah-v#{version}/Mynah_#{version}_aarch64.dmg"
   name "Mynah"
