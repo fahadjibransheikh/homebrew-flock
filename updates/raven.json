@@ -1,43 +1,43 @@
 {
-  "version": "1.8.0",
+  "version": "1.9.0",
   "notes": "",
-  "pub_date": "2026-11-16T21:56:31Z",
+  "pub_date": "2026-11-17T08:04:58Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY2tLMmZRbEJvRlVCNDFPZHNzaCsrNUg4Mk8rVndydGFoazdzNGllTFBxQVdYTVZRcFpzL3VqOE1PeExrdEV5WWtMVGJRZUxXTkRyOGMxTjZpdnpQc1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODY1NzYxCWZpbGU6UmF2ZW4uYXBwLnRhci5negl2ZXJzaW9uOjEuOC4wCmV5eG0xR09LTFhOZmdhdnlKQ0JPREFaWkZvbXF2TzFPYnJzV0J4YUY3YnZ6VjFrRnNwVzVuMEVESFBSUzg4QWN6bUdxVDdPZGIrRkl0cDV2UWVXQ0NnPT0K",
-      "url": "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v1.8.0/Raven_1.8.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY3FNdmN4KzlJdWtOYWh2YVBtdmdmMlBwOHlheG9vS3FjSDIxaTJpUjNSZ1p0eW1ERUpkVnB3cW8vblMzVGtwbDVlQ1dUUGV5d1BCalRmVUJrWXVZdUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTAyMTI4CWZpbGU6UmF2ZW4uYXBwLnRhci5negl2ZXJzaW9uOjEuOS4wCndCd3NTT2dNeUtTRGJWcTNsVGZGS0h0OU1MTU1DTTdCUjBPTTdNSEhPQk1pWlJlTmI4VUtBWSt4MFBXc2wvcG01VFNQbHVpVWRZV2JNand6S2FHNEFnPT0K",
+      "url": "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v1.9.0/Raven_1.9.0_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY2tLMmZRbEJvRlVCNDFPZHNzaCsrNUg4Mk8rVndydGFoazdzNGllTFBxQVdYTVZRcFpzL3VqOE1PeExrdEV5WWtMVGJRZUxXTkRyOGMxTjZpdnpQc1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODY1NzYxCWZpbGU6UmF2ZW4uYXBwLnRhci5negl2ZXJzaW9uOjEuOC4wCmV5eG0xR09LTFhOZmdhdnlKQ0JPREFaWkZvbXF2TzFPYnJzV0J4YUY3YnZ6VjFrRnNwVzVuMEVESFBSUzg4QWN6bUdxVDdPZGIrRkl0cDV2UWVXQ0NnPT0K",
-      "url": "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v1.8.0/Raven_1.8.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY3FNdmN4KzlJdWtOYWh2YVBtdmdmMlBwOHlheG9vS3FjSDIxaTJpUjNSZ1p0eW1ERUpkVnB3cW8vblMzVGtwbDVlQ1dUUGV5d1BCalRmVUJrWXVZdUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTAyMTI4CWZpbGU6UmF2ZW4uYXBwLnRhci5negl2ZXJzaW9uOjEuOS4wCndCd3NTT2dNeUtTRGJWcTNsVGZGS0h0OU1MTU1DTTdCUjBPTTdNSEhPQk1pWlJlTmI4VUtBWSt4MFBXc2wvcG01VFNQbHVpVWRZV2JNand6S2FHNEFnPT0K",
+      "url": "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v1.9.0/Raven_1.9.0_aarch64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY2o4NEVTUEFFcDNDL2x6SmZWOG8vWVVDeHpXWTdiakhJNXF5R0NadTRheGkrNXpqUzZ3c2VqY25vWTc1VC9LRTJXTmpkeDMwdlZzMEFmNHBMTWFiZndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODY1OTUyCWZpbGU6UmF2ZW5fMS44LjBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjoxLjguMApIY0VOMUMrYnUyMmNLTU91Q1JrSmxOSmJUQ0hTcXl1TGh6Q2JQRzU3ZGdtRVNjczB3K01aMmtTQUJBYjRBMWxhTzlkZ01kNnNQQkpuaTlyQzRFc2pEQT09Cg==",
-      "url": "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v1.8.0/Raven_1.8.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY3ZtOEFrSXRuRENtLzkrcTFCaWZ0WWhQaWxURVFaOEZnRUNPSHhyWXgwYVgvcWdiWXk2UTZzK21SeXU1RDBNbmpYNDVZbXpETXl1SlNHS0VsOG00RWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTAyMzE1CWZpbGU6UmF2ZW5fMS45LjBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjoxLjkuMApBRzNQYnozeXFmeGdId1RISVkyK1Z3RWhDVGx3YURRVDZFSWdoWlA0Y3BxYkZKczBRVmNzdDlEUEd4MERPdktIZ2d1UUw1TDBHeTFZd0VGUWlFMVBEdz09Cg==",
+      "url": "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v1.9.0/Raven_1.9.0_amd64.AppImage"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY2o4NEVTUEFFcDNDL2x6SmZWOG8vWVVDeHpXWTdiakhJNXF5R0NadTRheGkrNXpqUzZ3c2VqY25vWTc1VC9LRTJXTmpkeDMwdlZzMEFmNHBMTWFiZndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODY1OTUyCWZpbGU6UmF2ZW5fMS44LjBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjoxLjguMApIY0VOMUMrYnUyMmNLTU91Q1JrSmxOSmJUQ0hTcXl1TGh6Q2JQRzU3ZGdtRVNjczB3K01aMmtTQUJBYjRBMWxhTzlkZ01kNnNQQkpuaTlyQzRFc2pEQT09Cg==",
-      "url": "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v1.8.0/Raven_1.8.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY3ZtOEFrSXRuRENtLzkrcTFCaWZ0WWhQaWxURVFaOEZnRUNPSHhyWXgwYVgvcWdiWXk2UTZzK21SeXU1RDBNbmpYNDVZbXpETXl1SlNHS0VsOG00RWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTAyMzE1CWZpbGU6UmF2ZW5fMS45LjBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjoxLjkuMApBRzNQYnozeXFmeGdId1RISVkyK1Z3RWhDVGx3YURRVDZFSWdoWlA0Y3BxYkZKczBRVmNzdDlEUEd4MERPdktIZ2d1UUw1TDBHeTFZd0VGUWlFMVBEdz09Cg==",
+      "url": "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v1.9.0/Raven_1.9.0_amd64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY3FoYW1BQ1BudzdCaDd4RW10ZTcvWFN1YVBpbG14MGV2T1dTdE5rdy96NHcvMlFkalB2RjdmN3FOK0owaWpNZGRJM2hydnpPV2syS0J6bDczTTVpdGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODY1OTUyCWZpbGU6UmF2ZW5fMS44LjBfYW1kNjQuZGViCXZlcnNpb246MS44LjAKMWdqOCtwR1c1S214azJBKzFVaGpwUWNMZmFLcFh4MlV0dVNEZ2NHYnVwQVZMMHU5Q1lqZ29oQTVvdlhSTHVNNG14c3FQU2toRHFJZCtHVDlpQUVpQ3c9PQo=",
-      "url": "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v1.8.0/Raven_1.8.0_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY2xyN2lZRlFScmFHZ1NxSFlPUGthWld1RFIralZmZ2k1dEc3SHlkVSsyU1VGU3ZNWDVqTzFwTUpYSG1wbFlrZ3VxczF6aW9LYUZ3MDdnVjhsdFRJSUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTAyMzE1CWZpbGU6UmF2ZW5fMS45LjBfYW1kNjQuZGViCXZlcnNpb246MS45LjAKZnJCcXNKWVFTSWwzOW02ZjN1aDFWcEJZdVJjSWpOTTdkbXFueXEvSU95M1kyRUV5UDFDR2R4MUNvQ0hRajEyQXYxbUQyZFdQTHNRdGFYSHpReFBVQ3c9PQo=",
+      "url": "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v1.9.0/Raven_1.9.0_amd64.deb"
     },
     "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY2hRSzlJeWpxZ0lQc1ZFUmFJakM4YnF1WGgyRUlRUDNqOEc5YTl5aFlERUxiR2FtT1NDMkV0RGFlNFIybkRrb05FZkNzdUtoQ0dVNVdqUDhxdmszeFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODY1OTUyCWZpbGU6UmF2ZW4tMS44LjAtMS54ODZfNjQucnBtCXZlcnNpb246MS44LjAKOEF0azA4TDYzN3o4ZlVQT3lDTzZVM1p0MDNhRkRqYy9iYjU3cUtWRG53NXBpQTBYbWpTRGFhTUtNbXNtWnR5L2hjUzlBL1ZwOTl6ZTBSSmJqazNZRFE9PQo=",
-      "url": "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v1.8.0/Raven-1.8.0-1.x86_64.rpm"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY3FHQ2o3VkxxdEF2cS9WN0pQRy9wa0U0d2tYL0RrN0Z3dUZnQkphS05pV3FrL0dLSkhldkQ1clpCRUE1MEpHQ24zOU1EVUZKM29MMkZnVUpEWmp5ZncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTAyMzE1CWZpbGU6UmF2ZW4tMS45LjAtMS54ODZfNjQucnBtCXZlcnNpb246MS45LjAKcFVBTm9BNGFDZUl2bVdIemdLcFZpMS8wU3pOallyTlU5SUNCc3c3TmlxQ05wRitEaEpGYVAySEFpMkxtRVRQVWxkZmhtek0yVXFvdVdRdEtrTlh0RGc9PQo=",
+      "url": "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v1.9.0/Raven-1.9.0-1.x86_64.rpm"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY3RFdUE5M05saXBuWWpSY29lcmUxYlFDWDJBR0VWSU5DK3RQaGw0RHk1M3pycnc3VmY1VUZXTlk5TGZpTU4wWXY0TThwNDBpWnlRTGx1VENQMjRQMmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODY2MDg4CWZpbGU6UmF2ZW5fMS44LjBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuOC4wCnVOL3Z3ZmY3bnN5anRscHFtbDZ5OFBDZmtVTVFNTWc4YmZwU0h6bzhGYUI0UTRpcGRVOFEvbnRONW9nRlNkMEtRZUFhR2l2TEsyY1IycTJhL1pTSkRnPT0K",
-      "url": "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v1.8.0/Raven_1.8.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY3VzMGFJSzF6ZXFDWU9uY2d6c0l2TUF6dk9wUGxLK3BsTnNRTWNNbXg0Q2Jza0U0Y0hpNVlWT2NLRnlQMFVaNDNjM2lCTVI5QzVEYXZYd1VIZnNrWEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTAyNDUyCWZpbGU6UmF2ZW5fMS45LjBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuOS4wClAwbTRXQytZUzZvaHJ0Q1IwVTZWOG1nUHZPRVMyV1drR29DK2VhWEtBVEh5dVpZWndXaGw5RnVzVUVLY1BINTdEUS9LVW5OY0hrZXVCSG9SOFAxb0N3PT0K",
+      "url": "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v1.9.0/Raven_1.9.0_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY3RFdUE5M05saXBuWWpSY29lcmUxYlFDWDJBR0VWSU5DK3RQaGw0RHk1M3pycnc3VmY1VUZXTlk5TGZpTU4wWXY0TThwNDBpWnlRTGx1VENQMjRQMmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODY2MDg4CWZpbGU6UmF2ZW5fMS44LjBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuOC4wCnVOL3Z3ZmY3bnN5anRscHFtbDZ5OFBDZmtVTVFNTWc4YmZwU0h6bzhGYUI0UTRpcGRVOFEvbnRONW9nRlNkMEtRZUFhR2l2TEsyY1IycTJhL1pTSkRnPT0K",
-      "url": "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v1.8.0/Raven_1.8.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY3VzMGFJSzF6ZXFDWU9uY2d6c0l2TUF6dk9wUGxLK3BsTnNRTWNNbXg0Q2Jza0U0Y0hpNVlWT2NLRnlQMFVaNDNjM2lCTVI5QzVEYXZYd1VIZnNrWEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTAyNDUyCWZpbGU6UmF2ZW5fMS45LjBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuOS4wClAwbTRXQytZUzZvaHJ0Q1IwVTZWOG1nUHZPRVMyV1drR29DK2VhWEtBVEh5dVpZWndXaGw5RnVzVUVLY1BINTdEUS9LVW5OY0hrZXVCSG9SOFAxb0N3PT0K",
+      "url": "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v1.9.0/Raven_1.9.0_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY3VWdlJzRlRXb0ZNTFJPN0ptZUZNdDBnUzlXVWsxbi9renBKUFUvblJ6aVFsbWlka0kzS1NOWDE2Q0xTV1hSSHVKV0t5WGRYYXJDS3kwTFBCMDlUN0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODY2MDg4CWZpbGU6UmF2ZW5fMS44LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOC4wClNNSFpDbUloaXpqdGpHUUVzVXdQOHdGUGhwTWZmSHYxcGdqcHNwUkQ3cC9QOUV2RUVKOTZJcjByeGRuNmdnVkU3Vm0wQ1BuN2pzcEhNVTFjZk5xcERRPT0K",
-      "url": "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v1.8.0/Raven_1.8.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTHJaV3NrQm1YY3NNSkQrVWFnK2FZMDc3Ylo4RVNNTDlyc3lSZERSMU5paUpmdWpkV0lWUyttWkJZZmNVY2dzZXBleXZWakFaeVRHa3d2VHEwMHI2a1pBTVduRWNwYkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTAyNDUyCWZpbGU6UmF2ZW5fMS45LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOS4wCm1wL21BV3VzVlgwMnhKRzU2dm1RVGRCMVRtdHljdXVrVDJac2VJQk1saW10UTdERGFYM2NicWttN0dpMnhZaDQ0QzZ5dGFSRjRPVmFmS1pXT3NwY0J3PT0K",
+      "url": "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v1.9.0/Raven_1.9.0_x64-setup.exe"
     }
   }
 }
