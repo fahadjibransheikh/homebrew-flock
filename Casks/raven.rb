@@ -1,7 +1,7 @@
 cask "raven" do
-  version "2.0.1"
-  sha256 arm:          "8258f9447139318a30db3a6a3a0dc749aa91d8d38caa81cdbfa97fc9f37bc3a1",
-         x86_64_linux: "15feb8db90787def0ceb912b782a6a7d8d1900ed435b5b20a295716a42b06602"
+  version "2.1.0"
+  sha256 arm:          "9183dda4547b91a8350c89a17e274e1b0150749a1fe968f0bbc27ca8c82ed922",
+         x86_64_linux: "fc1006bb0330941cb0144c0036b9aa802da59a9751263d2f1544c2044f6daf8a"
 
   on_macos do
     url "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v#{version}/Raven_#{version}_aarch64.dmg"
