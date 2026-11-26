@@ -7,18 +7,23 @@ cask "raven" do
     url "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v#{version}/Raven_#{version}_aarch64.dmg"
 
     depends_on arch: :arm64
+    depends_on macos: :ventura
 
     app "Raven.app"
 
-    # The app is not signed or notarized yet, so Gatekeeper would refuse to open
-    # it. Remove these postflight steps once it is.
-    postflight_steps do
-      run "/usr/bin/xattr", args: ["-dr", "com.apple.quarantine", "{{appdir}}/Raven.app"]
-    end
+    uninstall quit: "com.fahadsheikh.raven"
 
     zap trash: [
+      "~/Library/Application Scripts/com.fahadsheikh.raven",
+      "~/Library/Application Scripts/com.fahadsheikh.raven.agenda",
+      "~/Library/Application Scripts/com.fahadsheikh.raven.widget",
+      "~/Library/Application Scripts/V5U2937FW6.com.fahadsheikh.raven",
       "~/Library/Application Support/com.fahadsheikh.raven",
       "~/Library/Caches/com.fahadsheikh.raven",
+      "~/Library/Containers/com.fahadsheikh.raven",
+      "~/Library/Containers/com.fahadsheikh.raven.agenda",
+      "~/Library/Containers/com.fahadsheikh.raven.widget",
+      "~/Library/Group Containers/V5U2937FW6.com.fahadsheikh.raven",
       "~/Library/Saved Application State/com.fahadsheikh.raven.savedState",
       "~/Library/WebKit/com.fahadsheikh.raven",
     ]
@@ -26,6 +31,8 @@ cask "raven" do
   on_linux do
     url "https://github.com/fahadjibransheikh/homebrew-flock/releases/download/raven-v#{version}/Raven_#{version}_amd64.AppImage"
 
+    # The Mac app is sandboxed and updates through Homebrew; only the AppImage replaces itself.
+    auto_updates true
     depends_on arch: :x86_64
 
     # Version-less target, so the in-app updater replaces the file in place.
@@ -70,6 +77,4 @@ cask "raven" do
     regex(/raven-v(\d+(?:\.\d+)+)/i)
     strategy :github_releases
   end
-
-  auto_updates true
 end
